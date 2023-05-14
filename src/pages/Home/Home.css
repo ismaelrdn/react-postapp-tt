@@ -1,0 +1,7 @@
+.home {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: var(--terciary);
+    color: var(--contrast);
+}
+

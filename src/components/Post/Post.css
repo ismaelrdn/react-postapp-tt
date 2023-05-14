@@ -1,0 +1,17 @@
+.post {
+  border: 2px solid var(--button);
+  border-radius: 10px;
+  background-color: var(--secondary);
+  padding: 20px;
+  margin: 20px;
+  color: var(--contrast);
+}
+
+.post h4 {
+  color: var(--contrast);
+  margin-bottom: 10px;
+}
+
+.post p {
+  margin-bottom: 20px;
+}
